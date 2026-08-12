@@ -16,5 +16,4 @@ Progress screenshots taken **within 3 hours of reverse engineering the client**
 <img width="1022" height="792" alt="image" src="https://github.com/user-attachments/assets/dcd546de-8c18-46a9-985f-43033a6510a8" />
 <img width="945" height="592" alt="image" src="https://github.com/user-attachments/assets/bc9b73fb-a205-495b-bd1d-d4daf6765dca" />
 <img width="753" height="432" alt="image" src="https://github.com/user-attachments/assets/96a3a47a-5e20-48f1-8bbd-66892b8ba9b6" />
-<img width="683" height="755" alt="image" src="https://github.com/user-attachments/assets/f7fce954-b946-441f-b720-c2aac89fbc1c" />
 
