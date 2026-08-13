@@ -3,9 +3,6 @@
 Server Emulator for FreeJack
 
 
-Progress screenshots taken **within 3 hours of reverse engineering the client**
-
-
 ## Screenshots
 
 <img width="1024" height="792" alt="image" src="https://github.com/user-attachments/assets/0eea0863-9571-4cc9-8a67-644b69bfc7b5" />
