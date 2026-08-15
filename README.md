@@ -5,7 +5,8 @@ Server Emulator for FreeJack
 
 # Client Fixes:
 * Fixed stuttering issue when moving mouse. High polling rate mice  broke the client lol.
-
+* FOV Changer
+* Resolution Changer
 
 # Server Features:
 * Custom Room Rules, for example use [8LAPS] in the room-name to set 8 laps.
