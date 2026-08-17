@@ -26,4 +26,6 @@ Server Emulator for FreeJack
 <img width="675" height="413" alt="image" src="https://github.com/user-attachments/assets/e9324806-83b1-4fb4-aa82-91b63f7dcb41" />
 <img width="983" height="372" alt="image" src="https://github.com/user-attachments/assets/508af91d-e7ac-491d-9261-4e1e1d3808c6" />
 <img width="2417" height="790" alt="image" src="https://github.com/user-attachments/assets/d48a9541-73aa-4364-8361-9e8dce7e4b4d" />
+<img width="938" height="689" alt="image" src="https://github.com/user-attachments/assets/4b77e431-a391-4005-b056-fef8ffebc2e4" />
+<img width="523" height="773" alt="image" src="https://github.com/user-attachments/assets/89a4b62f-f17f-4ad3-b530-16597bb76873" />
 
